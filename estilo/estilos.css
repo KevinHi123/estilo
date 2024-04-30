@@ -1,0 +1,38 @@
+/*selectores*/
+
+
+/*h1{
+    color: springgreen;
+    text-align: center;
+}*/
+
+/*selectores de tipo id*/
+/*#titulo{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+*//*
+#titulo2{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}*/
+/*selectores de tipo clase*/
+/*
+.parrafo{
+    color: blueviolet;
+    font-family: sans-serif;
+    text-align: right;
+}*/
+/*agrupar selectores*/
+
+/*h1, h2, p{
+    color: red;
+    text-align: center;
+}*/
+
+/*subclases*/
+p.parrafo{
+    color: greenyellow;
+}
